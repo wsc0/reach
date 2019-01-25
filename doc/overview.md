@@ -31,10 +31,10 @@ represent graphs.  The CLI uses [the aiger format](http://fmv.jku.at/aiger)
 [1].
 
 Both of these are and-inverter graph with `latches`, which correspond to state
-variables $x$.  Both of these representations logic.S allow input variables as
-well, let us call them $y$. The latch next states are functions of $x$ and $y$,
-which can be set and retrieved via logic.S objects. Let us call these
-functions, under one name, $\Phi: (x \times y) \to x'$.
+variables $x$.  Both of these representations allow input variables as well,
+let us call them $y$. The latch next states are functions of $x$ and $y$, which
+can be set and retrieved via logic.S objects. Let us call these functions,
+under one name, $\Phi: (x \times y) \to x'$.
 
 The relation $T(x,x')$ is then defined as
 
