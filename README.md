@@ -90,4 +90,18 @@ is still behind ABC/PDR on many problems.
 
 ## Citing Reach
 
-[![DOI](https://zenodo.org/badge/167542895.svg)](https://zenodo.org/badge/latestdoi/167542895)
+DOI based citations and downloads:
+[![DOI](https://zenodo.org/badge/163344002.svg)](https://zenodo.org/badge/latestdoi/163344002)
+
+BibTeX:
+```
+@misc{scott_cotton_2019_2554423,
+  author       = {Scott  Cotton},
+  title        = {irifrance/reach: Tenu},
+  month        = jan,
+  year         = 2019,
+  doi          = {10.5281/zenodo.2554423},
+  url          = {https://doi.org/10.5281/zenodo.2554423}
+}
+```
+
