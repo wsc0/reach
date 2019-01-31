@@ -89,7 +89,5 @@ have problems.  Its proof engine is much faster than baseline IC3, but it
 is still behind ABC/PDR on many problems. 
 
 ## Citing Reach
-[![DOI](https://zenodo.org/badge/167553884.svg)](https://zenodo.org/badge/latestdoi/167553884)
 
-
-
+[![DOI](https://zenodo.org/badge/167542895.svg)](https://zenodo.org/badge/latestdoi/167542895)
